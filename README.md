@@ -1,12 +1,10 @@
-### 🚀 About Me
+### 📝 About Me
 
-> 🎓 Выпускник бакалавриата (Прикладная информатика)  
-> 📖 Сейчас учусь в магистратуре  
-> 💻 Начинающий C# разработчик  
+> Bachelor's in Informatics and Computer Engineering, Master's student, beginner C# developer 
 
 ---
 
-### 🛠️ Skills
+### 🔧 Skills
 
 - C# / .NET
 - Алгоритмы и структуры данных
@@ -14,6 +12,7 @@
 
 ---
 
-### Get in Touch
+### ![alt text](image.png) Get in Touch
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/john_doedster)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail)](mailto:ilyapravv@gmail.com)
