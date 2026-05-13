@@ -24,6 +24,5 @@
 ### 📫 Get in Touch
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/john_doedster)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyapravv@gmail.com)📧 `ilyapravv@gmail.com`
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyapravv@gmail.com)    `ilyapravv@gmail.com`
 
