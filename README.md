@@ -1,6 +1,6 @@
-### 📝 About Me
+## 📝 About Me
 
-> Bachelor's in Informatics and Computer Engineering, Master's student, beginner C# developer 
+> # Bachelor's in Informatics and Computer Engineering, Master's student, beginner C# developer 
 
 ---
 
@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/C%23-purple)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
 ![EF Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/-SQL-2E3191?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-E3F2FD?style=flat&logo=postgresql&logoColor=1976D2)
 ![Git](https://img.shields.io/badge/-Git-F14E32?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
