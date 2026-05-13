@@ -1,6 +1,6 @@
-## 📝 About Me
+### 📝 About Me
 
-> # Bachelor's in Informatics and Computer Engineering, Master's student, beginner C# developer 
+> ### Bachelor's in Informatics and Computer Engineering, Master's student, beginner C# developer 
 
 ---
 
