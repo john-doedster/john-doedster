@@ -2,7 +2,7 @@
 
 > ### Bachelor's in Informatics and Computer Engineering, Master's student, beginner C# developer 
 
-<a href="./resume.pdf" target="_blank">
+<a href="./myResume.pdf" target="_blank">
   <button style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">📄 Click to check my resume</button>
 </a>
 
